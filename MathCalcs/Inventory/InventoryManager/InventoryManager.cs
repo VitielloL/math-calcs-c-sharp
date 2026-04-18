@@ -1,13 +1,14 @@
-﻿using System;
+﻿using MathCalcs.Inventory.InventoryManager;
+using System;
 using System.Globalization;
 
-namespace EstudoCSharp
+namespace MathCalcs.Inventory.InventoryManager
 {
-    public static class Estoque
+    public static class InventoryManager
     {
         public static void VerificaEstoque()
         {
-            Produto p = new Produto();
+            Product p = new Product();
 
             Console.WriteLine("Entre com os dados do produto");
 

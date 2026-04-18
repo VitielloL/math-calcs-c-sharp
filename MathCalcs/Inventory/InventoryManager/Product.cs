@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Globalization;
 
-namespace EstudoCSharp
+namespace MathCalcs.Inventory.InventoryManager
 {
-    class Produto
+    class Product
     {
         public string? Nome;
         public double Preco;

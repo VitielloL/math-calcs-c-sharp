@@ -1,0 +1,15 @@
+C:\Users\VitielloNaVoz\Desktop\dev\CSharp-Study\MathCalcs\bin\Debug\net6.0\MathCalcs.exe
+C:\Users\VitielloNaVoz\Desktop\dev\CSharp-Study\MathCalcs\bin\Debug\net6.0\MathCalcs.deps.json
+C:\Users\VitielloNaVoz\Desktop\dev\CSharp-Study\MathCalcs\bin\Debug\net6.0\MathCalcs.runtimeconfig.json
+C:\Users\VitielloNaVoz\Desktop\dev\CSharp-Study\MathCalcs\bin\Debug\net6.0\MathCalcs.dll
+C:\Users\VitielloNaVoz\Desktop\dev\CSharp-Study\MathCalcs\bin\Debug\net6.0\MathCalcs.pdb
+C:\Users\VitielloNaVoz\Desktop\dev\CSharp-Study\MathCalcs\obj\Debug\net6.0\MathCalcs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VitielloNaVoz\Desktop\dev\CSharp-Study\MathCalcs\obj\Debug\net6.0\MathCalcs.AssemblyInfoInputs.cache
+C:\Users\VitielloNaVoz\Desktop\dev\CSharp-Study\MathCalcs\obj\Debug\net6.0\MathCalcs.AssemblyInfo.cs
+C:\Users\VitielloNaVoz\Desktop\dev\CSharp-Study\MathCalcs\obj\Debug\net6.0\MathCalcs.csproj.CoreCompileInputs.cache
+C:\Users\VitielloNaVoz\Desktop\dev\CSharp-Study\MathCalcs\obj\Debug\net6.0\MathCalcs.sourcelink.json
+C:\Users\VitielloNaVoz\Desktop\dev\CSharp-Study\MathCalcs\obj\Debug\net6.0\MathCalcs.dll
+C:\Users\VitielloNaVoz\Desktop\dev\CSharp-Study\MathCalcs\obj\Debug\net6.0\refint\MathCalcs.dll
+C:\Users\VitielloNaVoz\Desktop\dev\CSharp-Study\MathCalcs\obj\Debug\net6.0\MathCalcs.pdb
+C:\Users\VitielloNaVoz\Desktop\dev\CSharp-Study\MathCalcs\obj\Debug\net6.0\MathCalcs.genruntimeconfig.cache
+C:\Users\VitielloNaVoz\Desktop\dev\CSharp-Study\MathCalcs\obj\Debug\net6.0\ref\MathCalcs.dll

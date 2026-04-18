@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace EstudoCSharp
+namespace MathCalcs.Geometry.CircleCalculator
 {
-    class Calculadora
+    class Calculator
     {
         public static double Pi = 3.14;
 

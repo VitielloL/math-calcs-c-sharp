@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstudoCSharp", "EstudoCSharp\EstudoCSharp.csproj", "{3194C7C9-DBE0-4205-807A-8B01EAFCB1EC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathCalcs", "MathCalcs\MathCalcs.csproj", "{3194C7C9-DBE0-4205-807A-8B01EAFCB1EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

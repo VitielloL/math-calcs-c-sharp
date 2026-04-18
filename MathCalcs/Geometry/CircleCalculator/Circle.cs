@@ -1,22 +1,22 @@
-﻿using EstudoCSharp;
+﻿using MathCalcs.Geometry.CircleCalculator;
 using System;
 using System.Globalization;
 
-namespace EstudoCSharp
+namespace MathCalcs.Geometry.CircleCalculator
 {
-    public static class CalculaCirculo
+    public static class Circle
     {
         public static void AreaDoCirculo()
         {
             Console.Write("Entre o valor do raio: ");
             double raio = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            double circ = Calculadora.Circunferencia(raio);
-            double volume = Calculadora.Volume(raio);
+            double circ = Calculator.Circunferencia(raio);
+            double volume = Calculator.Volume(raio);
 
             Console.WriteLine("Circunferencia: " + circ.ToString("F2", CultureInfo.InvariantCulture));
             Console.WriteLine("Volume: " + volume.ToString("F2", CultureInfo.InvariantCulture));
-            Console.WriteLine("Valor de PI: " + Calculadora.Pi.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("Valor de PI: " + Calculator.Pi.ToString("F2", CultureInfo.InvariantCulture));
         }
     }
 }

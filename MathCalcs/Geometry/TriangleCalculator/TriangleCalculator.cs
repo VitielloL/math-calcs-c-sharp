@@ -1,17 +1,17 @@
-﻿using EstudoCSharp;
+﻿using MathCalcs.Geometry.TriangleCalculator;
 using System;
 using System.Globalization;
 
-namespace EstudoCSharp
+namespace MathCalcs.Geometry.TriangleCalculator
 {
-    public static class CalculaTriangulo
+    public static class TriangleCalculator
     {
         public static void AreaDoTriangulo()
         {
-            Triangulo x, y;
+            Triangle x, y;
 
-            x = new Triangulo();
-            y = new Triangulo();
+            x = new Triangle();
+            y = new Triangle();
 
             Console.WriteLine("Entre com as medidas do triangulo X");
             x.A = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);

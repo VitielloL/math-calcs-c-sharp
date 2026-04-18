@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace EstudoCSharp
+namespace MathCalcs.Geometry.TriangleCalculator
 {
-    class Triangulo
+    class Triangle
     {
         public double A;
         public double B;
